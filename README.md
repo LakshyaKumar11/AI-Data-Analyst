@@ -1,4 +1,5 @@
 Build Your Personal AI Data Analyts
+
 Many Chat with your Data tools make a critical mistake: they try to make the AI answer the question directly. LLMs are bad at math. If you ask an LLM to calculate the average of 10,000 rows, it will hallucinate.
 
 The solution is not to ask the AI to do the math. Ask the AI to write the code that does the math.
