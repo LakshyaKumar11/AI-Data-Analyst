@@ -1,4 +1,4 @@
-Build Your Personal AI Data Analyts
+Build Your Personal AI Data Analyst
 
 Many Chat with your Data tools make a critical mistake: they try to make the AI answer the question directly. LLMs are bad at math. If you ask an LLM to calculate the average of 10,000 rows, it will hallucinate.
 
